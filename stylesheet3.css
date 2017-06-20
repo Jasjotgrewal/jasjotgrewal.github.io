@@ -1,0 +1,67 @@
+#rectangle {
+  position:fixed;
+	width: 250px;
+	height: 350px;
+	background: black;
+  top:70px;
+  left:40px;
+}
+#rectangle2 {
+  position:fixed;
+	width: 230px;
+	height: 330px;
+	background: white;
+  top:80px;
+  left:50px;
+}
+
+#oval {
+  position:fixed;
+	width: 50px;
+	height: 10px;
+	background: black;
+	-moz-border-radius: 50px / 80px;
+	-webkit-border-radius: 50px / 80px;
+	border-radius: 50px / 80px;
+  top: 90px;
+  left: 140px;
+}
+#rectangle3 {
+  position:fixed;
+	width: 180px;
+	height: 250px;
+	background: black;
+  top:120px;
+  left:70px;
+  }
+  #rectangle4 {
+  position:fixed;
+	width: 170px;
+	height: 240px;
+	background: white;
+  top:125px;
+  left:75px;
+  }
+    #circle {
+   position:fixed;
+	width: 38px;
+	height: 38px;
+	background: black;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+  top:370px;
+  left:140px;
+}
+
+ #circle2 {
+   position:fixed;
+	width: 30px;
+	height: 30px;
+	background: white;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+  top:374px;
+  left:144px;
+}
